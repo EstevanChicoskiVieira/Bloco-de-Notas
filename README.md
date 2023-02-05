@@ -5,14 +5,14 @@ estilização para o usuário poder personalizar o bloco de notas de acordo com 
 para poder executar o código é necessário ter o node.js instalado no seu computador, logo em seguida intalar o electron no diretório usando os comandos no
 cmd do windows:
 
-npm init
-npm install electron
+𝙣𝙥𝙢 𝙞𝙣𝙞𝙩
+𝙣𝙥𝙢 𝙞𝙣𝙨𝙩𝙖𝙡𝙡 𝙚𝙡𝙚𝙘𝙩𝙧𝙤𝙣
 
 Logo em seguida o node.js e o electron vão estar instalados no diretório.
 
 para executar basta abrir o cmd do windows e digitar:
 
-npm start ou node . ou node main.js
+𝙣𝙥𝙢 𝙨𝙩𝙖𝙧𝙩 ou 𝙣𝙤𝙙𝙚 . ou 𝙣𝙤𝙙𝙚 𝙢𝙖𝙞𝙣.𝙟𝙨
 
 O bloco de notas foi feito no windows 10 e não foi testado em outras isos.
 
