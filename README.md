@@ -6,6 +6,7 @@ para poder executar o código é necessário ter o node.js instalado no seu comp
 cmd do windows:
 
 𝙣𝙥𝙢 𝙞𝙣𝙞𝙩
+
 𝙣𝙥𝙢 𝙞𝙣𝙨𝙩𝙖𝙡𝙡 𝙚𝙡𝙚𝙘𝙩𝙧𝙤𝙣
 
 Logo em seguida o node.js e o electron vão estar instalados no diretório.
