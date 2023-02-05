@@ -15,3 +15,5 @@ para executar basta abrir o cmd do windows e digitar:
 npm start ou node . ou node main.js
 
 O bloco de notas foi feito no windows 10 e não foi testado em outras isos.
+
+https://github.com/EstevanChicoskiVieira/Bloco-de-Notas/blob/main/Screenshot_2.png
